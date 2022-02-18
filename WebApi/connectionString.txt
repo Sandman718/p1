@@ -1,0 +1,2 @@
+Server=tcp:database-1.ccytvznflkfj.us-east-2.rds.amazonaws.com,1433;
+Initial Catalog=someThing1;User ID=admin;Password=password;Encrypt=False;
