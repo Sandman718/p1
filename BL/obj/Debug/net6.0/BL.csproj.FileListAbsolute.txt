@@ -1,0 +1,12 @@
+C:\Users\BROOKLYNs11B\Desktop\04SQL\pZero-1\BL\bin\Debug\net6.0\BL.deps.json
+C:\Users\BROOKLYNs11B\Desktop\04SQL\pZero-1\BL\bin\Debug\net6.0\BL.dll
+C:\Users\BROOKLYNs11B\Desktop\04SQL\pZero-1\BL\bin\Debug\net6.0\ref\BL.dll
+C:\Users\BROOKLYNs11B\Desktop\04SQL\pZero-1\BL\bin\Debug\net6.0\BL.pdb
+C:\Users\BROOKLYNs11B\Desktop\04SQL\pZero-1\BL\obj\Debug\net6.0\BL.csproj.AssemblyReference.cache
+C:\Users\BROOKLYNs11B\Desktop\04SQL\pZero-1\BL\obj\Debug\net6.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BROOKLYNs11B\Desktop\04SQL\pZero-1\BL\obj\Debug\net6.0\BL.AssemblyInfoInputs.cache
+C:\Users\BROOKLYNs11B\Desktop\04SQL\pZero-1\BL\obj\Debug\net6.0\BL.AssemblyInfo.cs
+C:\Users\BROOKLYNs11B\Desktop\04SQL\pZero-1\BL\obj\Debug\net6.0\BL.csproj.CoreCompileInputs.cache
+C:\Users\BROOKLYNs11B\Desktop\04SQL\pZero-1\BL\obj\Debug\net6.0\BL.dll
+C:\Users\BROOKLYNs11B\Desktop\04SQL\pZero-1\BL\obj\Debug\net6.0\ref\BL.dll
+C:\Users\BROOKLYNs11B\Desktop\04SQL\pZero-1\BL\obj\Debug\net6.0\BL.pdb
