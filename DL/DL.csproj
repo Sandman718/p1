@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+<ItemGroup>
+    <ProjectReference Include="..\gameStore\theTavern.csproj" />
+    <!-- <ProjectReference Include="..\Main UI model\Main UI.csproj" /> -->
+  </ItemGroup>
+
+<ItemGroup>
+  <PackageReference Include="Microsoft.Data.SqlClient" Version="4.0.1" />
+</ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>
